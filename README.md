@@ -58,8 +58,6 @@ Assuring that the vote cast remains influence free and untampered so as to prese
 
 [HTML5](https://www.w3.org/html/) is a software solution stack that defines the properties of web page content by implementing a markup based pattern to it. <br>
 
-[React](https://reactjs.org/) is a JavaScript library for building user interfaces <br>
-
 
 
 <h1><b> Team </b> </h1>
@@ -67,4 +65,3 @@ Manasa Hari <br> Parvathy Kannankumarath Madom Krishnan <br/>  Nihanjali Mallava
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="right: 16px;float:right;"> Last updated on 10 October 2019. </div>
